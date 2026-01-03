@@ -3,9 +3,10 @@
 <p align="center">
   <img <img width="1408" height="768" alt="pyoptimizer_bg" src="https://github.com/pyshicDev/pyOptimizer/blob/978456269cd5089dfbeb34be3e867e7a22b2f286/banner.png" />
 </p>
+
 <p align="center">
   <a href="https://github.com/pyshicDev/pyOptimizer/releases/latest">
-    <img src="https://github.com/pyshicDev/pyOptimizer/blob/978456269cd5089dfbeb34be3e867e7a22b2f286/download.png" alt="Download" width="300" height="300">
+    <img src="https://github.com/pyshicDev/pyOptimizer/blob/cf772bd26336dbb500ac47bc6c331f8747da6aef/descargar.png" alt="Download" width="270" height="270">
   </a>
 </p>
 
